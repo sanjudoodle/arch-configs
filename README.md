@@ -1,3 +1,3 @@
 # configs
 
-All configuration files for my workstation
+Setup files of my system
