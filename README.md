@@ -1,3 +1,3 @@
 # configs
 
-Setup files of my system
+My system setup files
