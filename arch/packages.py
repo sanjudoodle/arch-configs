@@ -29,7 +29,7 @@ PACKAGES = {
     },
     "external":     {
         "aur": [
-            "brave-bin"
+            "brave-bin", "k3s-bin"
         ],
         "flatpak": [
             "com.mattjakeman.ExtensionManager"
