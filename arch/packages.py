@@ -9,7 +9,7 @@ PACKAGES = {
             "lsof", "tmux", "zellij", "vim", "neovim", 
             "rustup", "python", "uv", "ghostty", "tree",
             "bat", "tokei", "fastfetch", "firefox", "flatpak",
-            "code"
+            "code", "pv"
         ]
     },
     "shell":   {
